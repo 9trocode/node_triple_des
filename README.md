@@ -1,11 +1,11 @@
-# Node - Storage Pipe Manager
+# Node - Triple Des
 
-[![npm package](https://nodei.co/npm/node_storage_manager.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node_storage_manager/)
+[![npm package](https://nodei.co/npm/node_triple_des.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node_triple_des/)
 
-[![Run on Repl.it](https://repl.it/badge/github/9trocode/node_storage_manager)](https://repl.it/github/9trocode/node_storage_manager)
-![Node.js CI](https://github.com/9trocode/node_storage_manager/workflows/Node.js%20CI/badge.svg?branch=master)
-![Node.js CI](https://github.com/9trocode/node_storage_manager/workflows/Node.js%20CI/badge.svg?branch=master&event=issues)
-![Node.js CI](https://github.com/9trocode/node_storage_manager/workflows/Node.js%20CI/badge.svg?branch=master&event=release)
+[![Run on Repl.it](https://repl.it/badge/github/9trocode/node_triple_des)](https://repl.it/github/9trocode/node_triple_des)
+![Node.js CI](https://github.com/9trocode/node_triple_des/workflows/Node.js%20CI/badge.svg?branch=master)
+![Node.js CI](https://github.com/9trocode/node_triple_des/workflows/Node.js%20CI/badge.svg?branch=master&event=issues)
+![Node.js CI](https://github.com/9trocode/node_triple_des/workflows/Node.js%20CI/badge.svg?branch=master&event=release)
 
 [Node - Triple Des](https://www.npmjs.com/package/node_triple_des) Node Js encryption module for triple des
 **Table of contents:**

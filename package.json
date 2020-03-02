@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/9trocode/node_storage_manager.git"
+    "url": "git+https://github.com/9trocode/node_triple_des.git"
   },
   "keywords": [
     "3DES",
@@ -22,9 +22,9 @@
   "author": "9trocode",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/9trocode/node_storage_manager/issues"
+    "url": "https://github.com/9trocode/node_triple_des/issues"
   },
-  "homepage": "https://github.com/9trocode/node_storage_manager#readme",
+  "homepage": "https://github.com/9trocode/node_triple_des#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "crypto": "^1.0.1"
