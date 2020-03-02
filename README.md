@@ -65,10 +65,10 @@ are addressed with the highest priority.
 
 ## Contributing
 
-Contributions welcome! See the [Contributing Guide](https://github.com/9trocode/node_storage_manager/blob/master/CONTRIBUTING.md).
+Contributions welcome! See the [Contributing Guide](https://github.com/9trocode/node_triple_des/blob/master/CONTRIBUTING.md).
 
 ## License
 
 Apache Version 2.0
 
-See [LICENSE](https://github.com/9trocode/node_storage_manager/blob/master/LICENSE)
+See [LICENSE](https://github.com/9trocode/node_triple_des/blob/master/LICENSE)
