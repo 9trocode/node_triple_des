@@ -40,11 +40,11 @@ Usage
 ```javascript
 const Encryption = require('node_triple_des');
 
-const encrypt =  Encryption.encrypt('SharedKey', 'Value');
+const encrypt =  Encryption.encrypt('SharedKey', 'Plain Test');
 console.log(encrypt);
 // U2FsdGVkX1+luaxAzoyoyJI/5sAzyUW1
 
-const decrypt =  Encryption.encrypt('SharedKey', 'Value');
+const decrypt =  Encryption.decrypt('SharedKey', 'CipherText');
 console.log(decrypt);
 // U2FsdGVkX1+luaxAzoyoyJI/5sAzyUW1
 // Message
