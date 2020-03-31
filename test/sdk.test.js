@@ -11,7 +11,7 @@ describe('Simple Storage Test', () => {
     });
 
     it('should run decrypt', () => {
-        const data =  Encryption.decrypt('834y9yuhjsdjfdsjfbk++', 'testing');
+        const data =  Encryption.decrypt('834y9yuhjsdjfdsjfbk++', 'c3TvyddmZAE=');
           console.log(data);
     });
 
