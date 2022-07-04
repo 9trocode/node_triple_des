@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/9trocode/node_triple_des#readme",
   "dependencies": {
-    "chai": "^4.2.0",
     "crypto": "^1.0.1"
   },
   "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^7.0.1",
     "minimist": ">=1.2.2"
   }
